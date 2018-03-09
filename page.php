@@ -5,6 +5,7 @@ Template Name: Articles
 ?>
 <?php get_header(); // inclu le template partiel ?>
 
+
     <div class="container">
 
         <div class="row">
