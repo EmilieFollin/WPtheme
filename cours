@@ -1,0 +1,13 @@
+404.php = template en cas d'erreur 404
+category.php = template des catégories
+page.php = template des pages
+search.php = template du résultat d'une recherche
+single.php = template des articles
+tag.php = template des étiquettes
+home.php = template de la page d'accueil
+index.php = template par défaut si aucun template ne correspond
+
+footer.php = template partiel du footer
+header.php = template partiel du header
+sidebar.php = template partiel de la sidebar
+loop.php = template partiel perso (crée par nous, non natif a WP) pour l'affichage de la boucle de rendu
